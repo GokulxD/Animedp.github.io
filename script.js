@@ -1,4 +1,8 @@
-api_array = ('https://graph.org/file/9e2ae26f554beea0aa1de.jpg')
+api_array = [
+    'https://graph.org/file/9e2ae26f554beea0aa1de.jpg'
+    'https://graph.org/file/9e2ae26f554beea0aa1de.jpg'
+    'https://graph.org/file/9e2ae26f554beea0aa1de.jpg'
+    'https://graph.org/file/9e2ae26f554beea0aa1de.jpg' ]
 
 
 
